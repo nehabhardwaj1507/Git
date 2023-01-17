@@ -1,4 +1,7 @@
 This line of code is added directly from github
 Entering second line.
+<<<<<<< HEAD
 Entering third file.
 Entering fourth file.
+=======
+>>>>>>> 9164d6f (commit 1)
